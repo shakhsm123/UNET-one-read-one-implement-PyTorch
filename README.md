@@ -95,6 +95,7 @@ Open `unet.ipynb` and run cells top to bottom. The notebook covers:
 | LR scheduler | ReduceLROnPlateau (patience=5) |
 | Input size | 256 × 256 |
 | Output channels | 1 (binary segmentation) |
+| Epochs | 50 |
 
 ---
 
