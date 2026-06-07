@@ -8,7 +8,7 @@ A clean from-scratch PyTorch reimplementation of the U-Net architecture for bina
 
 ## Architecture
 
-![U-Net Architecture](assets/unet_architecture.png)
+![U-Net Architecture](assets/unet.png)
 
 The network follows the original encoder-decoder design with skip connections:
 
