@@ -38,8 +38,8 @@ Trimap values `{1, 2, 3}` (foreground / background / boundary) are remapped to b
 
 | Metric | Value |
 |--------|-------|
-| IoU | — |
-| Dice | — |
+| IoU | 0.7790 |
+| Dice | 0.3638 |
 
 ### Inference Sample
 
@@ -95,7 +95,7 @@ Open `unet.ipynb` and run cells top to bottom. The notebook covers:
 | LR scheduler | ReduceLROnPlateau (patience=5) |
 | Input size | 256 × 256 |
 | Output channels | 1 (binary segmentation) |
-| Epochs | 50 |
+| Epochs | 150 |
 
 ---
 
